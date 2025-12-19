@@ -49,7 +49,7 @@ A Python-based command-line tool that validates IP addresses in **decimal** and 
 ## ▶️ How to Run
 
 Clone the repository:
-git clone https://github.com/your-username/ip-validation-tool.git
+git clone https://github.com/Rumesha400/ip-validation-tool.git
 
 
 Navigate to the project directory:
